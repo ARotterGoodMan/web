@@ -1,1 +1,1 @@
-<a href="https://www.svipsvip.xyz"><img src="./img/捕获.png"></a>
+<a href="https://www.svipsvip.xyz"><img src="./img/捕获.PNG"></a>
